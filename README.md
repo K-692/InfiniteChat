@@ -1,4 +1,4 @@
-# Infinite Chat 💬 powered by GROQ 🚀
+# InfiniteChat 💬 powered by GROQ 🚀
 Welcome to Infinite Chat! Engage in enlightening conversations powered by the advanced capabilities of GROQ. 🌟
 
 ## The InfiniteChat is available online! 🎉
