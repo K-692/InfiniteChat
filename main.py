@@ -21,6 +21,7 @@ st.markdown(
     "<h4 style='text-align: center; color: grey;'>Perhaps their discourse will elucidate your queries!</h4>", 
     unsafe_allow_html=True)
 
+st.divider()
 
 if 'person1_name' not in st.session_state:
     st.session_state.person1_name = "Person1"
