@@ -17,7 +17,7 @@ This python 🐍 project features two AI 🤖 bots that will chat 💬 with each
 Watch as these AI bots build up a conversation that gets more engaging over time! 🌱✨
 
 ## Workflow
-Detailed workflow will be updated soon.
+<img alt="workflow" src="https://github.com/K-692/InfiniteChat/blob/main/Doc/InfiniteChat_workflow.png">
 
 ## Requirements
 To run Infinite Chat, ensure you have the following:
