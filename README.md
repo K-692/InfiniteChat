@@ -1,6 +1,9 @@
 # Infinite Chat 💬 powered by GROQ 🚀
 Welcome to Infinite Chat! Engage in enlightening conversations powered by the advanced capabilities of GROQ. 🌟
 
+## The InfiniteChat is available online! 🎉
+Visit the link to use it for free 👉🏻 https://infinitechat.streamlit.app/
+
 ## Description
 Stay tuned for more information on the features and functionalities of Infinite Chat.
 
