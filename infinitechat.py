@@ -155,10 +155,6 @@ def initial_process():
 
 
 def session_start():
-    api_key = st.text_input("Provide your GROQ API",
-                                value="",
-                                key="groq_api_key_user"
-                            )
     c1, c2 = st.columns(2)
     with c1:
         col1, col2, col3, col4 = st.columns(4)
@@ -210,14 +206,8 @@ def session_start():
         st.session_state.person2.relation = get_relationship_mapping(relation, st.session_state.person2.gender)
 
 
-    if len(api_key) and st.button("Start", key="start", use_container_width=True) and not st.session_state.is_started:
+    if st.button("Start", key="start", use_container_width=True) and not st.session_state.is_started:
         st.session_state.is_started = True
-        env_path = Path('.env')
-        os.remove(env_path)
-        with env_path.open('w') as file:
-            env_variable = f"GROQ_KEY='{api_key}'"
-            file.write(f"{env_variable}\n")
-
         initial_process()
 
     
