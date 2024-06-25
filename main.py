@@ -163,8 +163,8 @@ def session_start():
     with c1:
         col1, col2, col3, col4 = st.columns(4)
         with col1:
-            st.session_state.person1_name = st.text_input(label="Person 1", value=st.session_state.person1_name)
-            st.session_state.person2_name = st.text_input(label="Person 2", value=st.session_state.person2_name)
+            st.session_state.person1_name = st.text_input(label="Enter Person1's Name", value=st.session_state.person1_name)
+            st.session_state.person2_name = st.text_input(label="Enter Person2's Name", value=st.session_state.person2_name)
             st.session_state.person1.name = st.session_state.person1_name 
             st.session_state.person2.name = st.session_state.person2_name 
 
