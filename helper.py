@@ -23,11 +23,11 @@ relationships = {
     "Male": ["Father", "Son", "Brother", "Uncle", "Nephew", "Cousin", "Grandfather", "Grandson",
     "Friend", "Colleague", "Mentor", "Mentee", "Partner", "Roommate", "Neighbor",
     "Teammate", "Classmate", "Boss", "Employee", "Acquaintance", "Rival", "Confidant",
-    "Husband", "Boyfriend", "Fiancé"],
+    "Husband", "Boyfriend", "Fiancé", "Ex-Boyfriend"],
     "Female": ["Mother", "Daughter", "Sister", "Aunt", "Niece", "Cousin", "Grandmother", "Granddaughter",
     "Wife", "Girlfriend", "Fiancée",
     "Friend", "Colleague", "Mentor", "Mentee", "Partner", "Roommate", "Neighbor",
-    "Teammate", "Classmate", "Boss", "Employee", "Acquaintance", "Rival", "Confidant"]
+    "Teammate", "Classmate", "Boss", "Employee", "Acquaintance", "Rival", "Confidant", "Ex-Girlfriend"]
 }
 
 def get_relationship_mapping(relationship, second_person_gender):
@@ -51,6 +51,8 @@ def get_relationship_mapping(relationship, second_person_gender):
         "Wife": {"Male": "Husband"},
         "Boyfriend": {"Female": "Girlfriend"},
         "Girlfriend": {"Male": "Boyfriend"},
+        "Ex-Boyfriend":{"Female": "Ex-Girlfriend"},
+        "Ex-Girlfriend":{"Male": "Ex-Boyfriend"},
         "Fiancé": {"Female": "Fiancée"},
         "Fiancée": {"Male": "Fiancé"},
         "Friend": {"Male": "Friend", "Female": "Friend"},
@@ -66,7 +68,7 @@ def get_relationship_mapping(relationship, second_person_gender):
         "Employee": {"Male": "Boss", "Female": "Boss"},
         "Acquaintance": {"Male": "Acquaintance", "Female": "Acquaintance"},
         "Rival": {"Male": "Rival", "Female": "Rival"},
-        "Confidant": {"Male": "Confidant", "Female": "Confidant"}
+        "Confidant": {"Male": "Confidant", "Female": "Confidant"},
     }
     
     if relationship in relationship_mappings:
