@@ -1,4 +1,3 @@
-# Infinite Chat 💬 
-## powered by GROQ ![alt text](https://search.brave.com/images?q=Groq&context=W3sic3JjIjoiaHR0cHM6Ly91cGxvYWQud2lraW1lZGlhLm9yZy93aWtpcGVkaWEvY29tbW9ucy90aHVtYi9jL2NjL0dyb3FfbG9nby5zdmcvNTEycHgtR3JvcV9sb2dvLnN2Zy5wbmciLCJ0ZXh0IjoiR3JvcV9sb2dvLnN2ZyIsInBhZ2VfdXJsIjoiaHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvR3JvcSJ9XQ%3D%3D&sig=a27afdebf6b918c63bb434d5a322b7dcd9f58619aa13a2b4d67482f951241d7f&nonce=b0062fb75debaa408ea2724ae3f2134f&source=infoboxImg) 
+# Infinite Chat 💬 powered by GROQ !(https://search.brave.com/images?q=Groq&context=W3sic3JjIjoiaHR0cHM6Ly91cGxvYWQud2lraW1lZGlhLm9yZy93aWtpcGVkaWEvY29tbW9ucy90aHVtYi9jL2NjL0dyb3FfbG9nby5zdmcvNTEycHgtR3JvcV9sb2dvLnN2Zy5wbmciLCJ0ZXh0IjoiR3JvcV9sb2dvLnN2ZyIsInBhZ2VfdXJsIjoiaHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvR3JvcSJ9XQ%3D%3D&sig=a27afdebf6b918c63bb434d5a322b7dcd9f58619aa13a2b4d67482f951241d7f&nonce=b0062fb75debaa408ea2724ae3f2134f&source=infoboxImg) 
 
 ## Perhaps their discourse will elucidate your queries!
