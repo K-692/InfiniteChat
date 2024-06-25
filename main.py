@@ -11,11 +11,11 @@ os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
 st.set_page_config(layout="wide",
                     page_icon="🤖",
-                    page_title="Infinite Chat powered by AI"
+                    page_title="InfiniteChat powered by AI"
                     )
 
 st.markdown(
-    "<h1 style='text-align: center; color: grey;'>Infinite Chat powered by AI</h1>", 
+    "<h1 style='text-align: center; color: grey;'>InfiniteChat powered by AI</h1>", 
     unsafe_allow_html=True)
 st.markdown(
     "<h4 style='text-align: center; color: grey;'>Perhaps their discourse will elucidate your queries!</h4>", 
