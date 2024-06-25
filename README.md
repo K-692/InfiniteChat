@@ -15,7 +15,7 @@ This python 🐍 project features two AI 🤖 bots that will chat 💬 with each
   - Vector DB: Stores the contexts to ensure a coherent and evolving conversation. 🗂️
 
 ## Workflow
-Detailed workflow will be updated soon.
+<img alt="workflow" src="https://github.com/K-692/InfiniteChat/blob/main/Doc/InfiniteChat_workflow.png">
 
 ## Requirements
 To run Infinite Chat, ensure you have the following:
