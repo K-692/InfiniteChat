@@ -6,7 +6,15 @@ Visit the link to use it for free 👉🏻 https://infinitechat.streamlit.app/
 ### ⚠️ Please "Clear Memory" if it is halucinating 😅
 
 ## Description
-Stay tuned for more information on the features and functionalities of Infinite Chat.
+This python 🐍 project features two AI 🤖 bots that will chat 💬 with each other indefinitely. Here's how it works:
+- Character Creation: The bots get their characters based on user inputs such as names, gender, and zodiac signs. 🌌
+- Initial Topic: Users set an initial topic for the bots to start their conversation. 💬
+- Relationship Dynamics: To make the interaction more interesting, users can define relationships between the bots, like father-son, husband-wife, etc. 👨‍👦❤️
+- Tech Stack:
+- - GROQ API: Utilizes the LLaMA3-8b-8192 model for generating responses. 🧠
+- - Vector DB: Stores the contexts to ensure a coherent and evolving conversation. 🗂️
+
+Watch as these AI bots build up a conversation that gets more engaging over time! 🌱✨
 
 ## Workflow
 Detailed workflow will be updated soon.
