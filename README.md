@@ -3,6 +3,7 @@ Welcome to Infinite Chat! Engage in enlightening conversations powered by the ad
 
 ## The InfiniteChat is available online! 🎉
 Visit the link to use it for free 👉🏻 https://infinitechat.streamlit.app/
+### ⚠️ Please "Clear Memory" if it is halucinating 😅
 
 ## Description
 Stay tuned for more information on the features and functionalities of Infinite Chat.
